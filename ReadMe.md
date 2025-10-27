@@ -8,4 +8,4 @@ C#
 Bootstrap css framework.
 Asp.Net identity framework
 Javascript
-Entity framework core
+Entity framework core (tools , sqlserver ) v 9.0.10
