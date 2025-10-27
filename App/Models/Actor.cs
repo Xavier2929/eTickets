@@ -11,5 +11,8 @@ namespace App.Models
         public string ProfilePictureURL { get; set; }
         public string Fullname { get; set; }
         public string Biography { get; set; }
+
+        //relationships
+        public List<Actor_Movie> Actors_Movies { get; set; }
     }
 }
