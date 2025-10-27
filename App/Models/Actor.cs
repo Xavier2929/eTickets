@@ -14,5 +14,7 @@ namespace App.Models
 
         //relationships
         public List<Actor_Movie> Actors_Movies { get; set; }
+
+        public List<Movie> Movies
     }
 }

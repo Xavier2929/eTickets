@@ -26,5 +26,7 @@ namespace App.Models
         public int ProducerId { get; set; }
 
         public Producer Producer { get; set; }
+
+        public List<Actor> Actors { get; set; }
     }
 }
